@@ -41,3 +41,4 @@ config.rst
 package-lock.json
 
 events.out.tfevents.*
+*.jld
